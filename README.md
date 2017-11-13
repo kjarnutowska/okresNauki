@@ -1,2 +1,2 @@
-# okresNauki
-projekty powstałe na dostępnych danych w oparciu o języki R i/lub python3
+# Lerning subRepository
+Projects from school and self studying based on R and Python mostly.
